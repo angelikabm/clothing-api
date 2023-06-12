@@ -1,0 +1,21 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "category": "women's clothing",
+            "title": "Womens Black Cotton Jacket",
+            "price": 499.99,
+            "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors.",
+            "image": "./src/img/black-sweater.jpg"
+        },
+        {
+            "id": 1,
+            "category": "women's clothing",
+            "title": "Womens Green Cotton Jacket",
+            "price": 499.99,
+            "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors.",
+            "image": "./src/img/green-sweater.jpg"
+        }
+    ]
+}
+
